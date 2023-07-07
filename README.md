@@ -1,6 +1,6 @@
 <div align="center">
 <h1 style="color:white">MySQL - May 2023</h1>
-<h3>10 May ― 10 June 2023</h3>
+<h3>11 May ― 18 June 2023</h3>
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_Software_University_%28SoftUni%29_-_blue.png" 
   alt="softuni logo"
   style="position:relative; width:150px; padding:10px; margin: 0 auto;"
@@ -12,58 +12,52 @@
   <th style="text-align:center; vertical-align: middle;">SOLUTIONS</th>
 </tr>
 <tr>
-  <td style="text-align: center; vertical-align: middle;">Databases Introduction. Data Definition and Datatypes  </td>
+  <td style="text-align: center; vertical-align: middle;">Introduction to HTML & CSS   </td>
   <td style="text-align: center; vertical-align: middle;">
-    <a href="https://github.com/DimitarMitev92/MySQL-softuni/tree/main/01.%20Data%20Definition%20And%20Data%20Types%20-%20Lab">Lab</a> |
-    <a href="https://github.com/DimitarMitev92/MySQL-softuni/tree/main/02.%20%20Data%20Definition%20and%20Data%20Types%20-%20Exercises">Exercise</a> 
+    <a href="https://github.com/DimitarMitev92/html-css-softuni/tree/main/01.%20Introduction%20to%20HTML%20%26%20CSS%20-%20Lab">Lab</a> 
   </td>
 </tr>
 <tr>
-  <td style="text-align: center; vertical-align: middle;">Basic CRUD  </td>
+  <td style="text-align: center; vertical-align: middle;">HTML Structure </td>
   <td style="text-align: center; vertical-align: middle;">
-    <a href="https://github.com/DimitarMitev92/MySQL-softuni/tree/main/03.%20Basic%20CRUD%20-%20Lab">Lab</a> |
-    <a href="https://github.com/DimitarMitev92/MySQL-softuni/tree/main/04.%20Basic%20CRUD%20-%20Exercises">Exercise</a> 
+    <a href="https://github.com/DimitarMitev92/html-css-softuni/tree/main/02.%20HTML%20Structure%20-%20Lab">Lab</a> 
   </td>
 </tr>
 <tr>
-  <td style="text-align: center; vertical-align: middle;">Built-in Functions  </td>
+  <td style="text-align: center; vertical-align: middle;">CSS & Typography </td>
   <td style="text-align: center; vertical-align: middle;">
-    <a href="https://github.com/DimitarMitev92/MySQL-softuni/tree/main/05.%20Built-in%20Functions%20-%20Lab">Lab</a> |
-    <a href="https://github.com/DimitarMitev92/MySQL-softuni/tree/main/06.%20Built-in%20Functions%20-%20Exercises">Exercise</a> 
+    <a href="https://github.com/DimitarMitev92/html-css-softuni/tree/main/03.%20CSS%20%26%20Typography%20-%20Lab">Lab</a> 
   </td>
 </tr>
 <tr>
-  <td style="text-align: center; vertical-align: middle;">Data Aggregation </td>
+  <td style="text-align: center; vertical-align: middle;">CSS Box Model </td>
   <td style="text-align: center; vertical-align: middle;">
-    <a href="https://github.com/DimitarMitev92/MySQL-softuni/tree/main/07.%20Data%20Aggregation%20-%20Lab">Lab</a> |
-    <a href="https://github.com/DimitarMitev92/MySQL-softuni/tree/main/08.%20Data%20Aggregation%20-%20Exercises">Exercise</a> 
+    <a href="https://github.com/DimitarMitev92/html-css-softuni/tree/main/04.%20CSS%20Box%20Model%20-%20Lab">Lab</a> 
   </td>
 </tr>
 <tr>
-  <td style="text-align: center; vertical-align: middle;">Table Relations  </td>
+  <td style="text-align: center; vertical-align: middle;">Flexbox </td>
   <td style="text-align: center; vertical-align: middle;">
-    <a href="https://github.com/DimitarMitev92/MySQL-softuni/tree/main/09.%20Table%20Relations%20-%20Lab">Lab</a> |
-    <a href="https://github.com/DimitarMitev92/MySQL-softuni/tree/main/10.%20Table%20Relations%20-%20Exercises">Exercise</a> 
-  </td>
-</tr>
-<tr>
-  <td style="text-align: center; vertical-align: middle;">Subqueries and JOINs  </td>
-  <td style="text-align: center; vertical-align: middle;">
-    <a href="https://github.com/DimitarMitev92/MySQL-softuni/tree/main/11.%20Subqueries%20and%20JOINs%20-%20Lab">Lab</a> |
-    <a href="https://github.com/DimitarMitev92/MySQL-softuni/tree/main/12.%20Subqueries%20and%20JOINs%20-%20Exercises">Exercise</a> 
+    <a href="https://github.com/DimitarMitev92/html-css-softuni/tree/main/05.%20Flexbox%20-%20Lab">Lab</a> 
   </td>
 </tr>
   <tr>
-  <td style="text-align: center; vertical-align: middle;">Database Programmability and Transactions   </td>
+  <td style="text-align: center; vertical-align: middle;">Position & Grid  </td>
   <td style="text-align: center; vertical-align: middle;">
-    <a href="https://github.com/DimitarMitev92/MySQL-softuni/tree/main/13.%20Database%20Programmability%20-%20Lab">Lab</a> |
-    <a href="https://github.com/DimitarMitev92/MySQL-softuni/tree/main/14.%20Database%20Programmabilty%20-%20Exercises">Exercise</a> 
+    <a href="https://github.com/DimitarMitev92/html-css-softuni/tree/main/06.%20Position%20%26%20Grid%20-%20Lab">Lab</a> 
   </td>
 </tr>
-<tr>
-  <td style="text-align: center; vertical-align: middle;">Exams</td>
+  </tr>
+  <tr>
+  <td style="text-align: center; vertical-align: middle;">Media Queries   </td>
   <td style="text-align: center; vertical-align: middle;">
-    <a href="https://github.com/DimitarMitev92/MySQL-softuni/tree/main/15.%20Exams">Exams</a>
+    <a href="https://github.com/DimitarMitev92/html-css-softuni/tree/main/07.%20Media%20Queries%20-%20Lab">Lab</a> 
+  </td>
+</tr>
+    <tr>
+  <td style="text-align: center; vertical-align: middle;">Exams   </td>
+  <td style="text-align: center; vertical-align: middle;">
+    <a href="https://github.com/DimitarMitev92/html-css-softuni/tree/main/08.%20Exams">Lab</a> 
   </td>
 </tr>
 </table>
@@ -73,27 +67,24 @@
 
 ## For the course
 
-Databases are a standard way of using dynamic information in all applications, making them an integral part of almost every application. The database basics course will introduce you to one of the most widely used database management systems (DBMS - Database management system) in the development of competing applications - MySQL. You will acquire skills in working with relevant databases, and you will focus on the main functionalities such as working with tables, grouping functions, transactions, procedures and others. This course lays the foundations of working with databases, making it easier to use them in real-world applications, as well as understand them.
+The purpose of the HTML & CSS course is to lay a foundation of knowledge in web technologies, specifically an introduction to HTML5 and CSS3. Students will gain a beginning knowledge of web development, web browsers, HTML/CSS/DOM development tools and develop practical skills in using the Web Content Description Language (HTML) and the Web Content Stylesheet Language (CSS). Basic HTML tags, paragraphs, lists, tables, forms, controls, and semantic HTML tags are studied. Emphasis is placed on basic CSS selectors and styles, working with classes, presentation rules, positioning and layout rules in CSS. The latest developments in HTML5 and the CSS3 standard are covered. The course emphasizes hands-on exercises with HTML and CSS that engage you in real-world projects to build web pages, implement site snippets, and create complete modern websites with good looks, modern structure, and mobile support.
 
 ## Skills
 
-- MySQL - Database,
-- CRUDL
-- Functions,
-- Table Relations,
-- Subqueries,
-- JOINs,
-- Procedures,
-- Transactions,
-- Triggers
+- HTML Structure (semantic HTML, HTML tags, Forms, Tables),
+- Typography , Principles of Readability, CSS Properties, Fontawesome icons,
+- CSS Box Model, Block and Inline Elements, Width and Height, Padding and Margin and Border, Box Sizing,
+- CSS Grid, Posticion: static, relative, absolute, fixed, sticky, Positioning Properties, Z-index,
+- CSS Flexbox
+- Media Queries - responsive web design, media types, media feature rules, media queries conditions
 
 ## Themes
 
-- Databases Introduction. Data Definition and Datatypes 
-- Basic CRUD 
-- Built-in Functions 
-- Data Aggregation 
-- Table Relations 
-- Subqueries and JOINs 
-- Database Programmability and Transactions 
+- Introduction to HTML & CSS
+- HTML Structure
+- CSS & Typography
+- CSS Box Model
+- Position & Grid
+- Flexbox
+- Media queries
 
