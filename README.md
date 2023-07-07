@@ -22,7 +22,7 @@
   <td style="text-align: center; vertical-align: middle;">Basic CRUD  </td>
   <td style="text-align: center; vertical-align: middle;">
     <a href="https://github.com/DimitarMitev92/MySQL-softuni/tree/main/03.%20Basic%20CRUD%20-%20Lab">Lab</a> |
-    <a href=https://github.com/DimitarMitev92/MySQL-softuni/tree/main/04.%20Basic%20CRUD%20-%20Exercises">Exercise</a> 
+    <a href="https://github.com/DimitarMitev92/MySQL-softuni/tree/main/04.%20Basic%20CRUD%20-%20Exercises">Exercise</a> 
   </td>
 </tr>
 <tr>
