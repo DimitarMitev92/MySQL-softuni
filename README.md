@@ -27,7 +27,7 @@
 <tr>
   <td style="text-align: center; vertical-align: middle;">Built-in Functions </td>
   <td style="text-align: center; vertical-align: middle;">
-    <a href="https://github.com/DimitarMitev92/MySQL-softuni/tree/main/05.%20Built-in%20Functions%20-%20Lab">Lab</a> |  <a href="[https://github.com/DimitarMitev92/MySQL-softuni/tree/main/05.%20Built-in%20Functions%20-%20Lab](https://github.com/DimitarMitev92/MySQL-softuni/tree/main/06.%20Built-in%20Functions%20-%20Exercises)">Exercise</a>
+    <a href="https://github.com/DimitarMitev92/MySQL-softuni/tree/main/05.%20Built-in%20Functions%20-%20Lab">Lab</a> |  <a href="https://github.com/DimitarMitev92/MySQL-softuni/tree/main/06.%20Built-in%20Functions%20-%20Exercises">Exercise</a>
   </td>
 </tr>
 <tr>
@@ -73,14 +73,20 @@ Databases are a standard way of using dynamic information in all applications, m
 ## Skills
 
 - SQL, Basic SQL Queries, Data Tyoes in MySQL Server, Data Management, Table Customization
-- Query Basics, Retrieving Data, Writiing Data in Tables, Modifying Existing Records.
+- Query Basics, Retrieving Data, Writiing Data in Tables, Modifying Existing Records
+- Functions in MySQL Server, String Functions, Arithmetical Operators and Numeric Functions, Data Functions, Wildcards
+- Grouping, Aggregate Function - COUNT, SUM, MAX, MIN , AVG, Having
+- Database design, Table Relations, Retrieving Related Data, Cascade Operations, E/R Diagram
+- JOINS, Subqueries, indices
+- User-Defined Functions, Stored Procedures, Transactions, Triggers
+  
 ## Themes
 
-- Introduction to HTML & CSS
-- HTML Structure
-- CSS & Typography
-- CSS Box Model
-- Position & Grid
-- Flexbox
-- Media queries
+- Databases Introduction. Data Definition and Datatypes
+- Basic CRUD
+- Built-in Functions
+- Data Aggregation
+- Table Relations
+- Subqueries and JOINs
+- Database Programmability and Transactions
 
