@@ -58,7 +58,7 @@
     <tr>
   <td style="text-align: center; vertical-align: middle;">Exams   </td>
   <td style="text-align: center; vertical-align: middle;">
-    <a href="https://github.com/DimitarMitev92/MySQL-softuni/tree/main/15.%20Exams">Lab</a> 
+    <a href="https://github.com/DimitarMitev92/MySQL-softuni/tree/main/15.%20Exams">Exams</a> 
   </td>
 </tr>
 </table>
